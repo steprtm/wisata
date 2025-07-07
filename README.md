@@ -68,3 +68,5 @@
 | 4       | Lampung                         | 16            |
 | 4       | Sumatera Selatan                | 18            |
 
+## Bukti Submit
+![WhatsApp Image 2025-07-01 at 13 52 23_b01eba90](https://github.com/user-attachments/assets/96af9858-913c-4d01-84aa-9635bc77bfc1)
